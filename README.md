@@ -22,6 +22,7 @@ My solution can be found in my [Jupyter Notebook]().
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aPUVaNXrMkg/0.jpg)](http://www.youtube.com/watch?v=aPUVaNXrMkg)
 
 Challenge Video: (High contrast algorithm is used here)
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/B_TfCjRA9TE/0.jpg)](http://www.youtube.com/watch?v=B_TfCjRA9TE)
 
 	
