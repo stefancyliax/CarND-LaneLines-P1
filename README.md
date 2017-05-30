@@ -17,9 +17,11 @@ My solution can be found in my [Jupyter Notebook]().
 ![Pipeline](https://github.com/stefancyliax/CarND-LaneLines-P1/blob/master/output_images/Pipeline.png)
 ![Final Image](https://github.com/stefancyliax/CarND-LaneLines-P1/blob/master/output_images/Pipeline_final.png)
 
-#### Videos
+#### Videos (on Youtube)
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/biHSV7n7X9A/0.jpg)](http://www.youtube.com/watch?v=biHSV7n7X9A)
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aPUVaNXrMkg/0.jpg)](http://www.youtube.com/watch?v=aPUVaNXrMkg)
+
+Challenge Video: (High contrast algorithm is used here)
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/B_TfCjRA9TE/0.jpg)](http://www.youtube.com/watch?v=B_TfCjRA9TE)
 
 	
@@ -39,6 +41,8 @@ By just averaging we lose all contrast here. One possibility would be a weighted
 
 For this project it's more sensible to just use the red channel as the grayscale image. This keeps most of the contrast without much computation. The red channel is the most useful because yellow is strongest in the red channel. 
 This is of course no universal approach. Lines of colors other than yellow, red, pink and white would be at a disadvantage to the point of beeing totally invisible.
+
+
 ![](https://github.com/stefancyliax/CarND-LaneLines-P1/blob/master/output_images/grayscale_conversion.png)
 
 #### Increasing the contrast of the lines
